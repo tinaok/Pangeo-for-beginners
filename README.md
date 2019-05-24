@@ -1,5 +1,5 @@
-# Pangeo-for-beginners
+# Pangeo@HPC for beginners
 
-This is a slightly cleaned up version of self learning jupyter-notebook for Pangeo beginners (<- me  Fortran-MPI speaker,  HPC cluster user.)
+This is a collection of notebook for the usage of Pangeo in HPC cluster for new pangeo users who already have access (and basic knowledge ) on HPC systems. 
 
-I hope this helps you getting know about pangeo, and helps you having funtime with your big-data sets. 
+I hope this helps you getting know about pangeo@HPC systems, and helps you having fun time with your big-data sets. 
