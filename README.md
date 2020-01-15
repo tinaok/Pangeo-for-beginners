@@ -7,4 +7,3 @@ To learn what pangeo is, try the following [tutorial](https://github.com/pangeo-
 
 I hope this repository will help you getting to familiar with pangeo on HPC systems, and helps you having a **fun time** with your big-data set!
 
-**AP: Do you expect prerequisite knowledge of some of the tools, if yes, say so...**
